@@ -1,0 +1,11 @@
+
+.home-container {
+    background:url("https://res.cloudinary.com/dnml2vs6t/image/upload/v1729415660/cusocues5zurhwlbryd5.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 80vh;
+    max-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

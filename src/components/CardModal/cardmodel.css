@@ -1,0 +1,50 @@
+
+.cart-plant-img {
+    height: 98px;
+    width: 98px;
+}
+
+.cart-title {
+    font-size: 24px;
+    font-weight: 600;
+    font-family: 'Poppins';
+    color: #165315;
+    text-align: center;
+    letter-spacing: 0.8px;
+}
+
+.cart-description {
+    text-align: center;
+    letter-spacing: 0.8px; 
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Poppins';
+    color: #165315;
+    width: 422px;
+}
+
+.continue-btn {
+    min-height: 45px;
+    min-width: 307px;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    text-align: center;
+    background-color: #165315;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.cart-head {
+    text-align: center;
+    font-size: 17px;
+    font-weight: 400px;
+    color: #0F4811;
+}
+
+.cart-container {
+    background-color: #cfc9c9;
+}

@@ -1,0 +1,59 @@
+.img-and-btncard {
+    border: 1px solid #444242;
+}
+
+.view-product-btn {
+    height: 36px;
+    width: 268px;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 5px;
+    border: none;
+    background-color: #165315;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+    font-size: 16px;
+}
+
+.add-to-card-btn {
+    height: 36px;
+    border: none;
+    font-size: 16px;
+    background-color: #165315;
+    border-radius: 5px;
+    color: #fff;
+}
+
+.by-onrent-btn {
+    border: 1px solid #165315;
+    color: #165315;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-left: 10px;
+    height: 36px;
+    background: transparent;
+}
+
+.before-offer-price {
+    font-size: 16px;
+    color: #5E5A5AB2;
+    text-decoration: line-through;
+}
+
+.price {
+    color: #5E5A5A;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.product-name {
+    font-size: 20px;
+    color: #000000;
+    font-weight:600;
+}
+
+.description {
+    font-size: 14px;
+    color: #838383;
+}
