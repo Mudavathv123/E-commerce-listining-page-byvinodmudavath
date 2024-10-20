@@ -32,18 +32,18 @@ const NavBar = () => {
                             </Link>
                         </li>
                         <li className="nav-item dropdown">
-                            <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <button className="nav-link dropdown-toggle">
                                 Tools
-                            </a>
+                            </button>
                             <ul className="dropdown-menu">
                                 <li><Link className="dropdown-item">Action</Link></li>
                                 <li><Link className="dropdown-item" >Another action</Link></li>
                             </ul>
                         </li>
                         <li className="nav-item dropdown">
-                            <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <button className="nav-link dropdown-toggle">
                                 Our Services
-                            </a>
+                            </button>
                             <ul className="dropdown-menu">
                                 <li><Link className="dropdown-item">Action</Link></li>
                                 <li><Link className="dropdown-item" >Another action</Link></li>
