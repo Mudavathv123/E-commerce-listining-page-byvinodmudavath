@@ -13,6 +13,7 @@ const Cart = () => {
         <Container>
             <h2 className="">Cart Details</h2>
             <Row>
+
                 {
                     cartProducts.length > 0 ? (
                         cartProducts.map(eachCartProduct => <CartCard cartProduct={eachCartProduct} key={eachCartProduct.uniqueId} />)

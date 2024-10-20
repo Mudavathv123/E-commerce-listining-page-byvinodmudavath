@@ -5,8 +5,8 @@ import './../../App.css'
 const CartCard = ({ cartProduct }) => {
 
     return (
-        <Col key={cartProduct.uniqueId}>
-            <Card>
+        <Col key={cartProduct.uniqueId} lg = {12} className="gap-2 flex-wrap">
+            <Card className="mt-2">
                 <Card.Body className="d-flex align-items-center justify-content-start">
                     <div className="">
                         <Card.Img
